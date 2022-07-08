@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:99,Canal 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://138.117.4.70:8075/channel2/playlist.m3u8
+#EXTINF:100,Canal 4
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://138.117.4.70:8075/channel4/playlist.m3u8
+#EXTINF:99,Canal 6
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://138.117.4.70:8075/channel6/playlist.m3u8
+#EXTINF:98,Canal 8
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://138.117.4.70:8075/channel8/playlist.m3u8
+#EXTINF:100,Canal 9
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://138.117.4.70:8075/channel9/playlist.m3u8
+#EXTINF:99,Canal 10
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://138.117.4.70:8075/channel10/playlist.m3u8
+#EXTINF:100,Canal 11
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://138.117.4.70:8075/channel11/playlist.m3u8
+#EXTINF:100,Canal 15
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://138.117.4.70:8075/channel15/playlist.m3u8
+#EXTINF:23,Canal 20
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:101,Canal 21
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://138.117.4.70:8075/channel21/playlist.m3u8
+#EXTINF:99,Canal 22
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://138.117.4.70:8075/channel22/playlist.m3u8
+#EXTINF:100,Canal 23
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+#EXTVLCOPT:file-caching=1000
+http://138.117.4.70:8075/channel23/playlist.m3u8
